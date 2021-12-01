@@ -1,0 +1,52 @@
+
+	
+.Container{
+ width: 100%;
+    max-width: 1200px;
+}
+	
+body{
+	background-color: black;
+	background-image: url(img/forr.JPEG);
+		background-size: auto;
+		  background-repeat: no-repeat;
+		background-position: 50px 100px;
+		 font-family: arial;
+    	font-size: 10px;
+			max-width:1300px;
+
+		
+
+}
+
+
+h1{
+	position: relative;
+	top:650px;
+	left:0px;
+}
+
+
+a:link {
+       color: #fff;
+	  text-decoration: none;
+	position: absolute;
+	left:900px;
+	top:-100px;
+	background: white;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+h2{
+	position: absolute;
+	top:500px;
+	bottom: 10px;
+	left: 800px;
+
+}
+
+h3{
+	
+	
+}

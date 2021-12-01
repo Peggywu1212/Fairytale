@@ -1,0 +1,39 @@
+
+body{
+	background-color: black;
+	background-image: url(img/horse.JPEG);
+		background-size: 60%;
+		  background-repeat: no-repeat;
+		background-position: -100px -100px;
+		 font-family: arial;
+    	font-size: 15px;
+			max-width:1300px;
+
+
+}
+
+h1{
+	position: absolute;
+	bottom:0px;
+	right:250px;
+}
+
+a:link {
+  color: #fff;
+}	
+
+
+h2{
+	color: lightpink;
+	position: absolute;
+	right: 100px;
+	top: 200px;
+	
+	
+}
+
+h3{
+	position: absolute;
+	right: 50px;
+	bottom: 10px;	
+}

@@ -1,0 +1,28 @@
+
+body{
+	background-color: black;
+	background-image: url(img/pum.JPEG);
+		  background-repeat: no-repeat;
+		background-position: 10px 10px;
+		 font-family: arial;
+    	font-size: 15px;
+			max-width:1300px;
+
+
+}
+
+
+h1{
+	float: left;
+	position: relative;
+	top:650px;
+	left:800px;
+}
+
+a:link {
+        color: #fff;
+	  text-decoration: none;
+	background: white;
+	padding: 25px;
+	border-radius: 20px;
+}
